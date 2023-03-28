@@ -19,10 +19,10 @@
 *   ➥ To change the colors, replace the HEX code with the one you picked here : https://htmlcolorcodes.com
 */
 
-/* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
+ ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
 @import "https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css";
 
-/* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you want the scrollbar back */
+ ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you want the scrollbar back */
 @import "https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css";
 
 :root {
